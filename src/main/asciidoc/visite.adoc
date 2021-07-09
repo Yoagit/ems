@@ -33,6 +33,8 @@
 * Prise de constante
 
 === Mise à jour du dossier
+[source, text]
+----
 * VISITE MEDICALE DUXX/XX/XXXX
 * TENSION ARTÉRIELLEAU REPOS:XXXmmHg - XXmmHg
 * SAT O²AU REPOS:XX%
@@ -42,3 +44,4 @@
 * SAT O² APRÈS EFFORT : XX%
 * TEST URINAIRE ET SANGUIN :[NÉGATIF AUX STUPÉFIANTS// RAS]
 * [APPROUVÉ AU SERVICE]
+----
