@@ -1,0 +1,15 @@
+== Medicaments
+
+=== En vente libre
+
+* Rougeurs -> Pommade
+* Insolation -> Pommade
+* Diarrhée -> Antibiotiques
+* Grippe -> Antibiotiques
+* Fièvre -> Antidouleurs
+
+=== Special EMS
+
+* Pensement -> soigne petit bobo
+* Poche de sang -> soigne grand blessé
+* Kit -> soigne toute maladie

@@ -1,73 +1,7 @@
 = EMS - Mémo procédure
 
-== Don du sang
-* Accueillir le donneur, l'ammené en salle d'examen, lui demander de chuchotter si nécessaire.
-* Demander l'identité du patient
-* Premier don, expliquer les effets du don
-* Vérification du dossier
-** Date du dernier don (20h entre 2 dons)
-** Date de la dernière intervention
-** Personne a contacter en cas d'urgence
+include::don.adoc[]
 
-=== Question à poser
-* Avez vous bien bu, bien mangé ?
-* Avez-vous consommé de l’alcool ou de la drogue dans les 8 dernières heures ?
-* Avez-vous eu une relation sexuelle non protégéeavec une personne autre que votre partenairehabituel depuis le don du sang précédent ?
+include::visite.adoc[]
 
-=== Procédure
-* Rassurer le patient si phobie du sang ou des aiguilles
-* Placer le garrot en haut du bras
-* Déinfecter la zone a piquer
-* Annoncer le moment de la piqure et rassurer pendant le remplissage
-* Retirer l'aiguille et poser un pansement (a garder 2h)
-
-=== Rappel
-* Bien manger et boire
-* Ne pas faire d'effort pendant les 10 prochaines minutes
-* Donner une barre de chocolat
-* Mettre a jour le date et l'heure du don
-
-== Visite médicale
-* Accueillir le donneur, l'ammené en salle d'examen, lui demander de chuchotter si nécessaire.
-* Demander l'identité du patient
-* Vérification du dossier
-** Date de la dernière VM
-
-=== Prise d'identité du patient
-* Demander au patient de présenter sa carte d'identité
-* Lui demandé dans quel domaine il travail
-* Confirmer ou complèter les information du dossier
-** Groupe sanguin
-** Fumeur/Non fumeur
-** Maladie particulière
-** Alelrgie connue et traitement
-** Numéro de teléphone et adresse mail
-** Demander contacts en cas d’urgence
-
-=== Visite médicale
-* Analyse d'urine
-* Si pas d'épreuve physique, prise de sang (et don si patient d'accord)
-* Déposer échantillon pour analyse
-* Prise de constante
-** Coeur, poumon, tension, saturation
-* Test visuel (+ daltonisme)
-* Test auditif
-
-=== Epreuve physique
-* A chronomètrer!
-* Petit tour du batiment, deux fois de suite, départ en bas des escalier
-* Exercice physique:
-** Homme: 5 abdos et 5 pompe
-** Femme: 10 jumping jack
-* Prise de constante
-
-=== Mise à jour du dossier
-* VISITE MEDICALE DUXX/XX/XXXX
-* TENSION ARTÉRIELLEAU REPOS:XXXmmHg - XXmmHg
-* SAT O²AU REPOS:XX%TEST VUE :XX/10
-* TEST OUÏE :XX/10
-* TEST EFFORT : XX:XX:XX
-* TENSION ARTERIELLE APRES EFFORT : XXXmmHg - XXmHg
-* SAT O² APRÈS EFFORT : XX%
-* TEST URINAIRE ET SANGUIN :[NÉGATIF AUX STUPÉFIANTS// RAS]
-* [APPROUVÉ AU SERVICE]
+include::medoc.adoc[]
