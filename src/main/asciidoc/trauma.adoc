@@ -1,0 +1,55 @@
+== Trauma
+
+=== Entorse
+
+- Entorse bénigne: un simple étirement des ligaments, également appelé foulure. 
+- Entorse moyenne: les ligaments sont distendus et une partie de ceux-ci peut être rompue. 
+- Entorse grave: le ligament est entièrement rompu et des arrachements osseux peuvent s’être produits. Dans certains cas, la rupture des ligaments rend l’articulation instable et il est impossible de s’en servir.
+
+=== Entorse légère
+
+- Douleur immédiate, qui peut disparaître rapidement mais revenir de manière lancinante au bout de quelques heures. Les mouvements sont possibles
+- Gonflement modéré de l’articulation
+- Ecchymose légère ou absente
+- Traitement: Glace, repos (béquille, écharpe...), compression (orthèse, bandage élastique...), élévation au dessus du niveau ddu coeur, Antalgique léger, anti-inflamatoire.
+
+=== Entorse moyenne
+- Douleur plus importante que dans le cas d’une entorse légère. Les mouvements sont limités, mais possibles.
+- Gonflement rapide de l’articulation
+- Ecchymose pouvant apparaître
+- Traitement: Immobilisation avec Orthèse
+
+=== Entorse grave
+
+- Douleur intense
+- Gonflement immédiat
+- Ecchymose qui apparaît rapidement
+- Instabilité possible de l’articulation et impossibilité de s’en servir
+- Traitement: chirurgie et platre
+
+=== Luxation
+
+- Entorse accompagner du déboîtement de l’articulation.
+- Remise en place de l'articulation.
+- Radio de control après remise en place.
+
+=== Fracture
+
+* Simple
+** Transversale
+** Longitudinale
+** Oblique non déplacée
+** Spiroide
+** En bois de vert
+** Comminutive
+
+* Déplacé
+** Oblique déplacée
+
+* Ouverte
+
+=== Fracture traitement
+
+* Platre
+* Réduction des fractures dépolacées
+* 

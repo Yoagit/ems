@@ -5,3 +5,5 @@ include::don.adoc[]
 include::visite.adoc[]
 
 include::medoc.adoc[]
+
+include::trauma.adoc[]
