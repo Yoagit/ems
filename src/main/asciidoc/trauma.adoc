@@ -51,5 +51,9 @@
 === Fracture traitement
 
 * Platre
-* Réduction des fractures dépolacées
-* 
+** Pose du jersey
+** Ajout de la bande de coton
+** Bande de platre préalablement passé dans l'eau
+* Réduction des fractures déplacées
+** Technique Orthopédique: manipulation externe sous anesthésie local ou général avant pose du platre
+** Technique Chirurgicale: a foyer ouvert (ouvrant les tissus jusqu'a l'os) ou a foyer fermé (manipulation externe) avant pose de matériel d'osthoésynthèse.
