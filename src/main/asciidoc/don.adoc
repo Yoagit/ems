@@ -1,4 +1,6 @@
 == Don du sang
+
+=== Avant l'acte
 * Accueillir le donneur, l'ammené en salle d'examen, lui demander de chuchotter si nécessaire.
 * Demander l'identité du patient
 * Premier don, expliquer les effets du don
@@ -9,7 +11,7 @@
 
 === Question à poser
 * Avez vous bien bu, bien mangé ?
-* Avez-vous consommé de l’alcool ou de la drogue dans les 8 dernières heures ?
+* Avez-vous consommé de l’alcool ou de la drogue dans les 8 dernières heures ? (inclus les antidouleurs)
 * Avez-vous eu une relation sexuelle non protégéeavec une personne autre que votre partenairehabituel depuis le don du sang précédent ?
 
 === Procédure
@@ -22,5 +24,5 @@
 === Rappel
 * Bien manger et boire
 * Ne pas faire d'effort pendant les 10 prochaines minutes
-* Donner une barre de chocolat
+* Donner beignet
 * Mettre a jour le date et l'heure du don

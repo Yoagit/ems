@@ -36,12 +36,7 @@
 === Fracture
 
 * Simple
-** Transversale
-** Longitudinale
-** Oblique non déplacée
-** Spiroide
-** En bois de vert
-** Comminutive
+** Transversale, Longitudinale, Oblique non déplacée, Spiroide, En bois de vert, Comminutive
 
 * Déplacé
 ** Oblique déplacée
