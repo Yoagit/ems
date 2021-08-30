@@ -7,3 +7,5 @@ include::visite.adoc[]
 include::medoc.adoc[]
 
 include::trauma.adoc[]
+
+include::noyade.adoc[]
