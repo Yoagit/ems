@@ -1,4 +1,6 @@
 == Visite médicale
+
+=== Prise en charge
 * Accueillir le donneur, l'ammené en salle d'examen, lui demander de chuchotter si nécessaire.
 * Demander l'identité du patient
 * Vérification du dossier
