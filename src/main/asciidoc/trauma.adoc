@@ -1,6 +1,4 @@
-== Trauma
-
-=== Entorse
+== Entorse
 
 - Entorse bénigne: un simple étirement des ligaments, également appelé foulure. 
 - Entorse moyenne: les ligaments sont distendus et une partie de ceux-ci peut être rompue. 
@@ -33,7 +31,7 @@
 - Remise en place de l'articulation.
 - Radio de control après remise en place.
 
-=== Fracture
+== Fracture
 
 * Simple
 ** Transversale, Longitudinale, Oblique non déplacée, Spiroide, En bois de vert, Comminutive
@@ -52,3 +50,34 @@
 * Réduction des fractures déplacées
 ** Technique Orthopédique: manipulation externe sous anesthésie local ou général avant pose du platre
 ** Technique Chirurgicale: a foyer ouvert (ouvrant les tissus jusqu'a l'os) ou a foyer fermé (manipulation externe) avant pose de matériel d'osthoésynthèse.
+
+== Commotion cérébral
+
+=== Symptome
+
+* somnolence
+* maux de tête
+* vertiges
+* troubles de la mémoire
+* perte de connaissance
+* nausées, vomissements
+* vision trouble, photophobie (intolérance à la lumière) et phonophobie (intolérance aux sons)
+
+=== Traitement
+
+* Repos
+* Surveillance, poser régulièrement des questions pour vérifier l'état.
+
+=== Contre-indication
+
+* Alcool
+* Somnifères
+
+=== Hématome cranien
+
+* Type
+** Sous-dural en forme de croissant a l'IRM
+** Epidurial en forme de lentille biconvexe
+* Traitement
+** Embolie par micro catétère depuis l'aine
+** Trépanation et drainage
