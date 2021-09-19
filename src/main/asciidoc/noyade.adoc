@@ -14,7 +14,7 @@
 ** augmentation du potasisum
 ** augmenatation des difficultés respiratoires
 
-== Eau de mer
+=== Eau de mer
 
 * Le sang passe dans l'eau
 ** Diminution du volume sanguin
