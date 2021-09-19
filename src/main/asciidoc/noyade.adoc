@@ -1,0 +1,34 @@
+== Noyade
+
+=== Prise en charge
+
+* Sêcher la victime avant l'utilisation du défibrilateur
+* Couverture de survie pour contrer l'hypotermie
+* Mise sous oxygène
+
+=== Eau douce
+
+* Eau passe dans le sang
+** augmentation du volume sanguin
+** destruction des globule rouge
+** augmentation du potasisum
+** augmenatation des difficultés respiratoires
+
+== Eau de mer
+
+* Le sang passe dans l'eau
+** Diminution du volume sanguin
+** Oedem pulmonaire
+** Inefficacité cardiaque progressive
+
+=== Examens
+
+* Radio pour vérifier eau dans les poumons
+* Controle de la Sat O²
+** Mise sous O² pour remonter la saturation au dessus de 95%
+
+=== Prescription
+
+* Diurétique
+* Expectorant (matin et midi)
+* Anti-biotique
