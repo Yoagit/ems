@@ -9,3 +9,5 @@ include::medoc.adoc[]
 include::trauma.adoc[]
 
 include::noyade.adoc[]
+
+include::brulure.adoc[]
